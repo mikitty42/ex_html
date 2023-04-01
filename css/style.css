@@ -1,0 +1,17 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    width: 980px;
+    margin: 0 auto;
+}
+.header{
+    height: 50px;
+    font-size: 1.5rem;
+    background-color: #F5B4B3;
+}
+.logo_image{
+    width: 110px;
+    margin: 0;
+}
