@@ -1,0 +1,35 @@
+
+.th{
+    width: 150px;
+    height: 7rem;
+}
+.text{
+    width: 480px;
+    margin-left: 10px;
+}
+.submit:hover{
+    opacity: 0.5;
+}
+.submit{
+    padding: 10px;
+    background-color: #008B8B;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+}
+th{
+    text-align: right;
+    margin-right: 10px;
+}
+.box {
+border: 1px solid; /*境界線の指定*/
+padding:10px;
+margin-left: 10px;
+}
+.radio{
+    margin-left: 10px;
+}
+#submit{
+    text-align: center;
+}
+
