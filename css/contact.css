@@ -1,7 +1,6 @@
 
 .th{
     width: 150px;
-    height: 7rem;
 }
 .text{
     width: 480px;
@@ -14,8 +13,12 @@
     padding: 10px;
     background-color: #008B8B;
     color: white;
-    font-size: 3rem;
+    
     text-align: center;
+}
+tr{
+    height: 7rem;
+    width: 150px;
 }
 th{
     text-align: right;
@@ -31,5 +34,6 @@ margin-left: 10px;
 }
 #submit{
     text-align: center;
+    font-size: 3rem;
 }
 
